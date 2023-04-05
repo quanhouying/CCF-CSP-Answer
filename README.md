@@ -16,3 +16,6 @@
    - 202206-1 [归一化处理](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2022/202206-1%20%E5%BD%92%E4%B8%80%E5%8C%96%E5%A4%84%E7%90%86.cpp)
    - 202206-2 [寻宝！大冒险！](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2022/202206-2%20%E5%AF%BB%E5%AE%9D%EF%BC%81%E5%A4%A7%E5%86%92%E9%99%A9%EF%BC%81.cpp)
    - 202212-2 [训练计划](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2022/202212-2%20%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92.cpp)
+6. 2023
+   - 202303-1 [田地丈量](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202303-1%20%E7%94%B0%E5%9C%B0%E4%B8%88%E9%87%8F.cpp)
+   - 202303-2 [垦田计划](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202303-2%20%E5%9E%A6%E7%94%B0%E8%AE%A1%E5%88%92.cpp)
