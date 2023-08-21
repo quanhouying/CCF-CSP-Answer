@@ -20,3 +20,4 @@
    - 202303-1 [田地丈量](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202303-1%20%E7%94%B0%E5%9C%B0%E4%B8%88%E9%87%8F.cpp)
    - 202303-2 [垦田计划](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202303-2%20%E5%9E%A6%E7%94%B0%E8%AE%A1%E5%88%92.cpp)
    - 202305-1 [重复局面](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202305-1%20%E9%87%8D%E5%A4%8D%E5%B1%80%E9%9D%A2.cpp)
+   - 202305-2 [矩阵运算](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202305-2%20%E7%9F%A9%E9%98%B5%E8%BF%90%E7%AE%97.cpp)
