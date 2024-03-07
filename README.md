@@ -23,3 +23,4 @@
    - 202305-2 [矩阵运算](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202305-2%20%E7%9F%A9%E9%98%B5%E8%BF%90%E7%AE%97.cpp)
    - 202309-1 [坐标变换（其一）](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202309-1%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%EF%BC%88%E5%85%B6%E4%B8%80%EF%BC%89.cpp)
    - 202309-2 [坐标变换（其二）](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202309-2%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%EF%BC%88%E5%85%B6%E4%BA%8C%EF%BC%89.cpp)
+   - 202312-1 [仓库规划](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202312-1%20%E4%BB%93%E5%BA%93%E8%A7%84%E5%88%92.cpp)
