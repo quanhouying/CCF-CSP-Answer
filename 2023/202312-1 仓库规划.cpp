@@ -7,7 +7,7 @@ int main()
 	int n,m;
 	cin >> n >> m;
 	vector<vector<int>> hubs;					// 用于存储仓库位置编码
-	for (int i = 0; i < n;i++) {				// 读入仓库位置编码
+	for (int i = 0; i < n;i++) {					// 读入仓库位置编码
 		int t;
 		vector<int> t_hub;
 		for (int j = 0; j < m;j++) {
