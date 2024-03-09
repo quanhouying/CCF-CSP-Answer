@@ -25,3 +25,4 @@
    - 202309-2 [坐标变换（其二）](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202309-2%20%E5%9D%90%E6%A0%87%E5%8F%98%E6%8D%A2%EF%BC%88%E5%85%B6%E4%BA%8C%EF%BC%89.cpp)
    - 202312-1 [仓库规划](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202312-1%20%E4%BB%93%E5%BA%93%E8%A7%84%E5%88%92.cpp)
    - 202312-2 [因子化简](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202312-2%20%E5%9B%A0%E5%AD%90%E5%8C%96%E7%AE%80.cpp)
+   - 202312-3 [树上搜索](https://github.com/quanhouying/CCF-CSP-Answer/blob/main/2023/202312-3%20%E6%A0%91%E4%B8%8A%E6%90%9C%E7%B4%A2.cpp)
